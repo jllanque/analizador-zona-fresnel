@@ -1,0 +1,13 @@
+{
+  "samples": 1000,
+  "building_width_ratio": 0.04,
+  "obstacle_width_ratio": 0.025,
+  "clearance_acceptable": 0.6,
+  "plot_margin": 50,
+  "tx_building_color": [0.4, 0.4, 0.4],
+  "rx_building_color": [0.4, 0.4, 0.4],
+  "acceptable_color": [0.0, 0.7, 0.0],
+  "critical_color": [1.0, 0.7, 0.0],
+  "non_viable_color": [1.0, 0.0, 0.0],
+  "theme": "light"
+}
